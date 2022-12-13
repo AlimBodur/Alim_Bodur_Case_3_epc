@@ -6,21 +6,12 @@ In this project I tried to assign workers randomly to companies each turn.
 
 There is A,B,C,D,E,F,G,H,J companies,
 
-*4 workers and 1 seniorworkers were assigned to company A
+For the random assignment created a function named workers_randomize. After the randomize process, arrays (named by companies A,B,C,D,E,F,G,H,J) setted and printed to screen.
 
-*8 workers were 1 seniorworkers assigned to company B
+Set array function name array_set. This function sets arrays.
 
-*8 workers were 2 seniorworkers assigned to company C
+After the set process I delete to Workers array's first element and add last element.
 
-*6 workers were 2 seniorworkers assigned to company D
+The other set function is seniorWorkers_assignment function. This function adds to arrays last index senior workers randomly.
 
-*3 workers and 1 seniorworkers were assigned to company E
-
-*2 workers and 1 seniorworkers were assigned to company F
-
-*5 workers and 1 seniorworkers were assigned to company F
-
-*1 workers and were assigned to company H
-
-*1 workers and were assigned to company J
-
+When the whole process done, using print_workers_array function printing to screen companies name and assigned workers.
