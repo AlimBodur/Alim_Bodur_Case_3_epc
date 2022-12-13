@@ -4,7 +4,7 @@
 
 In this project I tried to assign workers randomly to companies each turn. 
 
-There is A,B,C,D,E,F,G,H,J companies,
+There is A,B,C,D,E,F,G,H,J companies,\n
 4 workers and 1 seniorworkers were assigned to company A
 8 workers were 1 seniorworkers assigned to company B
 8 workers were 2 seniorworkers assigned to company C
